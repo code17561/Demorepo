@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: demo repository
+Suite: demo
+Date: Tue, 30 Jul 2024 18:02:50 UTC
+Components: main
+MD5Sum:
+ 7636240dbbdc42301c259a042f6287e2 1636 main/binary-all/Packages
+ 5c50cf657a86de4a471e011b5295ba71 896 main/binary-all/Packages.xz
+ bef8d9fc4530abcc20011fce93cd889a 361 main/Contents-all
+ 6f4f6bfe71da9f718d610f63428be648 168 main/Contents-all.xz
+SHA1:
+ 30808930df6aa8d53f9f8b4aa53ddeff3cefb03b 1636 main/binary-all/Packages
+ b758a5cbe20a7aadf21c2657e77f1630e006cba3 896 main/binary-all/Packages.xz
+ 4bc9c3788fbce8f82ec14ef0cb7f3626195b9a4a 361 main/Contents-all
+ f447607f98067b337204cffddad134874d446f5e 168 main/Contents-all.xz
+SHA256:
+ 10e34e24e237b4e3bd69da91bb5d8be02e18bcd00328a2b0e60e3ac4be7b183d 1636 main/binary-all/Packages
+ 39f23839b7e32aa0dd7157897bea8cf6bef0d854e9e561ea7c16f8cb6a060f9a 896 main/binary-all/Packages.xz
+ 7eb9f40f04ad034af91c9c87920b3333cb9433e9507bc8df33ef526a535445ae 361 main/Contents-all
+ 3f498d5c24a30b9f0efb785c1ba9a5c7c9c066b92f7d63a4a514db54aeac5f9a 168 main/Contents-all.xz
+SHA512:
+ 43ad4b97f482b2e94f5b58e5860c28fe3b54bd04af51c01026cbc3ff5ac035b3f093cb52fc6f139121a9d759974f45b03a5317e039d78c209124d6b596d5bc62 1636 main/binary-all/Packages
+ 6a1804f37714da38f5f4d9e4b0c959eebe4a3b3d121011acf0486565c8b3d56914924dca4ecf198000970637cdcf48f35d60290bff3a21416a10eabb53aee55c 896 main/binary-all/Packages.xz
+ 0c7a516732bed41372c7464549859228173c00f3ec5543a16a4b1d9dcf7a53042ae278c948f53c423a4a9920dd0fb1e07c1737df1c8cf1f21f81205b6fe3f151 361 main/Contents-all
+ a4a6dfb581be4e062357009ff6990ad9709fc04f8d01ba438c279766ebabd4f5abb62b0de0c348b90e26b5d67ec8b8ab80cb2be90e9faa9a965371d838bdde4a 168 main/Contents-all.xz

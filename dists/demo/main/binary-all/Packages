@@ -1,0 +1,42 @@
+Package: instainfo
+Version: 1.0.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,python-pip
+Installed-Size: 40
+Description: instagram information gatjering tool
+Filename: dists/demo/main/binary-all/instainfo.deb
+Size: 1904
+MD5Sum: 904bd8f9bd0520be036e72a786e08754
+SHA1: 29de74d919d6a01b9554d872c3e3722c3d57ee17
+SHA256: 259b9073259436ddfb65b2402071b77e6d7941bdc1c0d075550bd8dea8156581
+SHA512: e8d9c3d675f2c34cfc2736c05798672cd73e48c98221058b971f5ea20507b9646582396c604df138c0f1e16a9317bdb99d28c5f53024fad4da2de37cc6237d2f
+
+Package: ipinfo
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 48
+Depends: python,python-pip,termux-exec,termux-tools
+Description: Ip address information gathering tool for termux
+Filename: dists/demo/main/binary-all/ipinfo.deb
+Size: 3572
+MD5Sum: 3cf13337e5a5251ebdbe98f5fde0e271
+SHA1: 8727b9ca86599541a37d8aa747dc3d3be2aacd8d
+SHA256: 3fb5622a37e5708780e5af224851737484b821da2da17d49a5f5ab72d73ee37d
+SHA512: f850870dd95188081666ea8f960f3f9ab6a2c2624fb04b686c7f3212e3dd1aec90934331027f056b3ebee0e6803c0c88f4e4b933497fa0bdf8e4d9414777358a
+
+Package: parrot-os
+Version: 6.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: proot-distro
+Description: parrot-os on termux
+Filename: dists/demo/main/binary-all/parrot-os.deb
+Size: 1608
+MD5Sum: 4c916092e17ceb6feec55635eb1ce9b5
+SHA1: 84875bf2684c9fd743b5a2ac29279e8c0721109b
+SHA256: 4161095fe72105db74efa562921b83d4e3981fe65b545292646860f3baecc3d9
+SHA512: fee4cae40a0ddbb224206625dec4501f79bbb3dc74e7d471ede55da6e83bb1126e5fe44e029deb20c34a8bca9dfa01e85ddec9b6f2578a9b02170b1027f51793
+
